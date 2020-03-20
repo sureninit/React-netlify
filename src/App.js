@@ -25,8 +25,7 @@ function App() {
   );
 }
 const Home = () =>(
-  <div>
-    <h1>Home Pages</h1>
-  </div>
-)
+  <h1>Home page</h1>
+);
+
 export default App;
